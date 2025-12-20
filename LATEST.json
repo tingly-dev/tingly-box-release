@@ -4,9 +4,9 @@
   "packages_updated_at": "2025-12-18T07:58:08Z",
   "commit_sha": "c72e7b6a95e8f7d3e2b5e63136b38d7058fd490e",
   "npx_latest_branch": "npx-vv0.25.12181701",
-  "npx_version": "v0.25.12191800-beta",
-  "npx_updated_at": "2025-12-19T10:19:36Z",
+  "npx_version": "v0.25.12201100-beta",
+  "npx_updated_at": "2025-12-20T04:03:41Z",
   "npx_is_manual": true,
-  "release_tag": "v0.25.12191800-beta",
-  "npx_latest_tag": "npx-v0.25.12191800-beta"
+  "release_tag": "v0.25.12201100-beta",
+  "npx_latest_tag": "npx-v0.25.12201100-beta"
 }

@@ -1,0 +1,5 @@
+282e12a520ef008c2d1308e65f07ef99619b1b16a37f13630fb260ec4109fa82  tingly-box-gui-macos-arm64.zip
+fa32809e05a4bf9a99a5ca4266653b96b113591db6fbc90b00321d7f7cf67dcf  tingly-box-gui-windows-amd64.zip
+0bcf894885edf3cf969f98efa139f868945751de700e79ae46fd42ccddd820c2  tingly-box-linux-amd64.zip
+cbefdb29daa37ec639587a63e027625f9483ce21af72559f543d4403dc3ab203  tingly-box-macos-arm64.zip
+f879c677e0a226d39aa2f6011ba5550c7d08e036274fbcf43e82ce2023da4462  tingly-box-windows-amd64.zip
